@@ -5,7 +5,7 @@
       <div class="avatar-wrapper">
         <img 
           class="avatar" 
-          :src="avatarUrl" 
+          src="/aaa.png" 
           alt="个人头像"
           @error="handleAvatarError"
         />
